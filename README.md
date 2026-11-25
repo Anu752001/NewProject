@@ -1,2 +1,3 @@
 # NewProject
-A Demo File for Repository cloning via SSH
+A demo for Git usage
+Simple Calculator
