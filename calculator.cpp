@@ -22,8 +22,8 @@ double divide(double left, double right) {
 }
 
 int main() {
-    std::cout << "A Simple C++ Calculator\n";
-    std::cout << "Operators Supported: +  -  *  /\n";
+    std::cout << "Simple C++ Calculator\n";
+    std::cout << "Operators: +  -  *  /\n";
 
     double left;
     char operation;
